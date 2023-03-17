@@ -1,4 +1,4 @@
-// VoiceRSS Javascript SDK
+
 const VoiceRSS = {
   speech(e) {
     this._validate(e), this._request(e);
